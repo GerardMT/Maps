@@ -1,6 +1,6 @@
 # IGCG Maps for TwoNav Devices
 
-Here is a small gide on how I download and installed the latest maps from *Institut Cartogràfic de Catalunya* to a *TwoNav Aventura 2 device*.
+Here is a small guide on how I download and installed the latest maps from *Institut Cartogràfic de Catalunya* to a *TwoNav Aventura 2 device*.
 
 Since *ICGC* does not provide a way to fully download a map, I extracted extracted the data using their own WMS.
 
